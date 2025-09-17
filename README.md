@@ -1,6 +1,10 @@
-# Hi, I'm Suryansh Ambekar 👋
+# Hi, I'm Suryansh Ambekar 👋  
 
-🚀 Aspiring Software Engineer | 💡 Passionate about AI, Full-Stack Development & Problem Solving  
+<p align="center">
+  <a href="https://github.com/Suryanshambekar">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Full-Stack+Developer;Deep+Learning+Researcher;Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -62,18 +66,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suryanshambekar&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryanshambekar&theme=radical" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suryanshambekar&theme=radical" alt="GitHub Activity Graph"/>
-</p>
-
----
 
 ## 📫 Connect With Me  
 <p align="left">
