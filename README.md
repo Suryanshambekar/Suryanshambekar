@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Suryanshambekar">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Full-Stack+Developer;Deep+Learning+Researcher;Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Data Scientist;Full-Stack+Developer;Deep+Learning+Researcher;Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me  
 - 🎓 B.Tech in Electronics and Telecommunication (E&TC)  
 - 💻 Interested in **AI, Deep Learning, and Full-Stack Development**  
-- 🌱 Currently working on projects involving **Machine Learning, Web Development, and IoT**  
+- 🌱 Currently working on projects involving **Machine Learning, Data Science, Web Development, and IoT**  
 - 🎯 Goal: To build impactful software solutions and publish research in AI  
 
 ---
