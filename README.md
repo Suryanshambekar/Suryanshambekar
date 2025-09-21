@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Suryanshambekar">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Data Scientist;Full-Stack+Developer;Deep+Learning+Researcher;Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Data+Scientist;Full-Stack+Developer;Deep+Learning+Researcher;Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
